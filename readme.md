@@ -2,7 +2,13 @@
 
 ### Deliverable
 
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
+Kenneth Domine
+(https://github.com/sf-wdi-labs/express-routes-training).
+  I didn't completely comprehend the lecture during the class so I had to reread the material and additional reading. "Create a root route that responds by sending the `index.html` file from the `views` directory." That sentence gave me the most trouble starting out the  homework assignment, but made sense once I saw the example from the lecture page. Once I knew what i was doing, the directions were pretty straight forward.
+
+
+
+1<!-- . When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
 
 1. Push your updates to GitHub, and add a link to your repo to the "My Work" section of your website!
 
@@ -32,11 +38,11 @@ Create a root route that responds by sending the `index.html` file from the `vie
     <input type="submit" />
   </form>
   ```
+ -->
 
+<!-- ### Art Gallery -->
 
-### Art Gallery
-
-1. Create an `artworks` array in the server code.  Each artwork will be an object with a `title` key, an `artist` key, and a `description` key.
+<!-- 1. Create an `artworks` array in the server code.  Each artwork will be an object with a `title` key, an `artist` key, and a `description` key.
 
 2. Write a route that returns a list of all of the artworks as JSON.
 
@@ -44,7 +50,7 @@ Create a root route that responds by sending the `index.html` file from the `vie
 
 4. Create a new HTML view called `art-gallery.html`. Add a route at `/art-gallery` to display this view. Add a form to this view that collects the information you need to add a new artwork.
 
-5. Create a new client-side JavaScript file called `gallery.js`, link it to your `art-gallery.html`, and write an AJAX call to submit the new artwork form to the correct route with its data.  If the request is successful, log the response to the console in the browser.
+5. Create a new client-side JavaScript file called `gallery.js`, link it to your `art-gallery.html`, and write an AJAX call to submit the new artwork form to the correct route with its data.  If the request is successful, log the response to the console in the browser. -->
 
 <!-- 1. Update the client-side JavaScript so that once an artwork is added successfully on the server, the artwork information is displayed on the page. -->
 
